@@ -1,4 +1,4 @@
-## Data Science with Python 
+## Learning Data Science with Python 
 
 # About:
 Application to predict the sale price of a property. 
